@@ -1,0 +1,5 @@
+# Visual Studio Code
+.vscode/
+bin/
+obj/
+dbsettings.json

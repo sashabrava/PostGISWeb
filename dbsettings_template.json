@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+       "PostgreSQLConnection": "Server=IP;Port=PORT;Database=DATABASE;User Id=USERNAME;Password=PASSWORD;"
+    }
+   }
