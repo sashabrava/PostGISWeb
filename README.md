@@ -1,3 +1,5 @@
+Project development has stopped, its first version hasn't been completed.
+
 # PostGISWeb
 ASP.NET Core MVC project for displaying PostGIS data on OpenLayers map
 
